@@ -1,10 +1,13 @@
-function makeFunctionArray(){
-    const arr =[]
-    for (var i = 0; i , 5; i++){
-        arr.push(function()  { console.log(i) })
-    }
-return arr
+// function makeFunctionArray(){
+//     const arr =[]
+//     for (var i = 0; i , 5; i++){
+//         arr.push(function()  { console.log(i) })
+//     }
+// return arr
 
-}
-const arr = makeFunctionArray()
-arr [0]()
+// }
+// const arr = makeFunctionArray()
+// arr [0]()
+
+
+function makeHelloFucntion
